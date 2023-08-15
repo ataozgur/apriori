@@ -1,4 +1,4 @@
-# Given data #
+    # Given data #
 total_transactions = 100
 transactions_containing_bread = 70
 transactions_containing_milk = 50
